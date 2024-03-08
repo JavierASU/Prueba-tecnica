@@ -1,0 +1,25 @@
+.ms {
+    background-color: rgb(238, 225, 225);
+    margin-top: 3px;
+    padding: 5px;
+}
+
+#mensajes {
+    height: 500px;
+    overflow-y: scroll;
+}
+
+.campo{
+    background-color: white;
+    padding: 8px;
+    border: 1px solid blue;
+}
+
+.boton{
+color: white;
+background-color: rgb(81, 81, 141); 
+padding: 8px;
+border-radius: 4px;
+border: 1px solid black;
+cursor: blue;
+}
